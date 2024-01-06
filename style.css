@@ -44,13 +44,13 @@
 }
 
 .list-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .list-tasks__item,
 .heading__todo {
-  list-style:none;
+  list-style: none;
 }
 
 .input-text,
@@ -58,7 +58,7 @@
 .button-add,
 .button-edit,
 .button-delete {
-  outline:none;
+  outline: none;
 }
 
 .button-add,
@@ -170,14 +170,14 @@
 /* Edit Task */
 
 .list-tasks .list-tasks__item .input-text {
-  display:none
+  display: none
 }
 
 .list-tasks .list-tasks__item.edit .input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .list-tasks .list-tasks__item.edit .label-task {
-  display:none;
+  display: none;
 }
